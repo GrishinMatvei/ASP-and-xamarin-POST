@@ -3,7 +3,7 @@ using AspXamarin.Models.ApplicationContext;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AspXamarin.Controllers;
- 
+
 public class UserController : ControllerBase
 {
     ApplicationContext db;
@@ -19,23 +19,28 @@ public class UserController : ControllerBase
     }
 
     [HttpPost("Users/CreateUser")]
-    public async Task<IActionResult> AddUser([FromBody] UserDto user)
+    public string AddUser([FromBody] UserDto user)
     {
-        if (user != null)
+        if (String.IsNullOrWhiteSpace(user.Name))
+            return "Не введено имя пользователя";
+
+        if (String.IsNullOrWhiteSpace(user.Fam))
+            return "Не введена фамилия пользователя";
+
+        User newUser = new User
         {
-            User newUser = new User
-            {
-                Id = db.Users.Max(x => x.Id) + 1,
-                Name = user.Name,
-                Fam = user.Fam
-            };
+            Id = db.Users.Max(x => x.Id) + 1,
+            Name = user.Name,
+            Fam = user.Fam
+        };
 
-            db.Users.Add(newUser);
-            await db.SaveChangesAsync();
-            return Ok("Сохранение произошло успешно");
-        }
+        db.Users.Add(newUser);
+        db.SaveChanges();
 
-        return BadRequest("Пустой юзер, чувак"); 
+        var savedUser = db.Users.FirstOrDefault(x => x.Id == newUser.Id);
+
+        if(savedUser is not null) return "Сохранение произошло успешно";
+
+        return "Пустой юзер, чувак";
     }
-
 }

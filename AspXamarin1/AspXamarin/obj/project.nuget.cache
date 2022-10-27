@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T/nxgS67zEc05lpO4ob2tGOcRPrfzL2FbD+89DlOfGKpiNH5iq5eyvWHhCV5zgoS9QTRg6aUgEUwJILU1q5SfQ==",
+  "dgSpecHash": "yaQkkzdAf5XrLkye+sPPVEL//A3dOK1GenFtim5z8JVueUI/BJXdaFGiweIg4w+vWnzQ02TfR6dNCSWMc41klw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
+  "projectFilePath": "G:\\Mobilization\\ASP and xamarin POST\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

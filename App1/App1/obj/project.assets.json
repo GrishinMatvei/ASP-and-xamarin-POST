@@ -961,11 +961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1\\App1.csproj",
+      "projectPath": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1\\obj\\",
+      "outputPath": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

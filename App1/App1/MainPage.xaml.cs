@@ -22,8 +22,9 @@ namespace App1
             newUser.Name = nameTbx.Text;
             newUser.Fam = famTbx.Text;
             newUser.Id = null;
-            userService.Add(newUser);
-
+            string result = userService.Add(newUser);
+            DisplayAlert("У вас 1 непрочитанная открытка", result, "Нихачу >.<");
         }
+
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x0jPkd1I1Nc3M1OhEewWgJSiaSYCEBdTliu87FQoS4NEx8xW749DZq6we+s/GjBK9NbnUoLXqof16Aq7z6SpkQ==",
+  "dgSpecHash": "HUwvCiCOmR6pYUb+zzMVEQxr54KczZq01cdV+knqU6mMjtmJHZUucfucqNIec0ryeNEILNPS6enFg8sgCWhPgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1\\App1.csproj",
+  "projectFilePath": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1\\App1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

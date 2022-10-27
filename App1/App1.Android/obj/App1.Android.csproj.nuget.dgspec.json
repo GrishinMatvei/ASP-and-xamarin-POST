@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1.Android\\App1.Android.csproj": {}
+    "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1.Android\\App1.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1.Android\\App1.Android.csproj": {
+    "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1.Android\\App1.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1.Android\\App1.Android.csproj",
+        "projectUniqueName": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1.Android\\App1.Android.csproj",
         "projectName": "App1.Android",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1.Android\\App1.Android.csproj",
+        "projectPath": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1.Android\\App1.Android.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1.Android\\obj\\",
+        "outputPath": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1\\App1.csproj": {
-                "projectPath": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1\\App1.csproj"
+              "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1\\App1.csproj": {
+                "projectPath": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1\\App1.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1\\App1.csproj": {
+    "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1\\App1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1\\App1.csproj",
+        "projectUniqueName": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1\\App1.csproj",
         "projectName": "App1",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1\\App1.csproj",
+        "projectPath": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1\\App1.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Обильно связал с АСП\\App1\\App1\\obj\\",
+        "outputPath": "G:\\Mobilization\\ASP and xamarin POST\\App1\\App1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
