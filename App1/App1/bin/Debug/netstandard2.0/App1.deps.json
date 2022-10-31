@@ -9,13 +9,10 @@
     ".NETStandard,Version=v2.0/": {
       "App1/1.0.0": {
         "dependencies": {
-          "Domain": "1.0.0",
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "13.0.1",
           "RestSharp": "108.0.2",
-          "Services": "1.0.0",
           "System.Text.Json": "6.0.6",
-          "Tools": "1.0.0",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2196"
         },
@@ -163,25 +160,6 @@
             "fileVersion": "5.0.0.786"
           }
         }
-      },
-      "Domain/1.0.0": {
-        "runtime": {
-          "Domain.dll": {}
-        }
-      },
-      "Services/1.0.0": {
-        "dependencies": {
-          "Domain": "1.0.0",
-          "Tools": "1.0.0"
-        },
-        "runtime": {
-          "Services.dll": {}
-        }
-      },
-      "Tools/1.0.0": {
-        "runtime": {
-          "Tools.dll": {}
-        }
       }
     }
   },
@@ -288,21 +266,6 @@
       "sha512": "sha512-zSXDiZukojtEBmZKUUG1yYBwlB9tI8JLPkc6n+Sm1PAX01QyzErWE9AaFJgP7usyoGHn92l4HnQF7A+/MPI6VA==",
       "path": "xamarin.forms/5.0.0.2196",
       "hashPath": "xamarin.forms.5.0.0.2196.nupkg.sha512"
-    },
-    "Domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Services/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Tools/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

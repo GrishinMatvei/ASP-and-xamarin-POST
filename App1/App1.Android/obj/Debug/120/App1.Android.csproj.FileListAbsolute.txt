@@ -2555,661 +2555,645 @@ C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\st
 C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\App1.Android.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\App1.Android.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\com.companyname.app1.apk
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\com.companyname.app1.aab
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.aab
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk.idsig
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\App1.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\App1.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\build.props
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\adb.props
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\App1.Android.csproj.AssemblyReference.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res.flag
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\53\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\54\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\60\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\61\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\62\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\66\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\67\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\68\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\73\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\74\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\78\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\84\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\86\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\87\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\88\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\89\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\90\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\91\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\92\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\94\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\95\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\96\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\97\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\98\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\lp\103\jl\files.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\R.txt
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\R.cs.flag
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\App1.Android.csproj.CoreCompileInputs.cache
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\App1.Android.csproj.CopyComplete
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\App1.Android.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\App1.Android.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\bin\com.companyname.app1.apk
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\bin\base.zip
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\bin\com.companyname.app1.aab
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\bin\com.companyname.app1.apks
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\values\styles.xml
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\values\colors.xml
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-hdpi\icon.png
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-hdpi\launcher_foreground.png
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-mdpi\icon.png
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-mdpi\launcher_foreground.png
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-xhdpi\icon.png
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-xhdpi\launcher_foreground.png
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-xxhdpi\icon.png
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-xxhdpi\launcher_foreground.png
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-xxxhdpi\icon.png
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\res\mipmap-xxxhdpi\launcher_foreground.png
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\uploadflags.txt
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\resolvedassemblies.hash
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\App1.Android.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\App1.Android.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\App1.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\App1.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\FormsViewGroup.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\FormsViewGroup.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Java.Interop.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Java.Interop.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Mono.Android.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Mono.Android.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Mono.Security.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Mono.Security.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\mscorlib.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\mscorlib.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\netstandard.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\RestSharp.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Buffers.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Core.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Core.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Data.DataSetExtensions.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Data.DataSetExtensions.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Data.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Data.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Drawing.Common.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Drawing.Common.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.IO.Compression.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.IO.Compression.FileSystem.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.IO.Compression.FileSystem.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.IO.Compression.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Memory.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Net.Http.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Net.Http.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Numerics.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Numerics.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Numerics.Vectors.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Numerics.Vectors.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Runtime.CompilerServices.Unsafe.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Runtime.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Runtime.Serialization.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Runtime.Serialization.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.ServiceModel.Internals.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.ServiceModel.Internals.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Text.Encodings.Web.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Text.Json.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Threading.Tasks.Extensions.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Transactions.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Transactions.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Web.Services.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Web.Services.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Xml.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Xml.Linq.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Xml.Linq.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\System.Xml.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DynamicAnimation.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DynamicAnimation.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Media.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Media.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Common.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Common.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Runtime.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Runtime.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.UI.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.UI.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Preference.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Preference.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager2.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager2.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Essentials.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Essentials.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Core.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Core.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.Android.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.Android.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Xaml.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Xaml.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\typemaps.arm64-v8a.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\typemaps.armeabi-v7a.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\typemaps.x86.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\typemaps.x86_64.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\AndroidManifest.xml
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\AndroidManifest.xml
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\__environment__.txt
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\MonoRuntimeProvider.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\machine.config
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\bin\mono.android.jar
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\static.flag
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\buildid.txt
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\environment.arm64-v8a.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\environment.armeabi-v7a.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\environment.x86.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\environment.x86_64.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\annotation\experimental\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\resources\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\browser\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\cardview\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\constraintlayout\widget\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\coordinatorlayout\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\core\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\drawerlayout\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\fragment\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\lifecycle\runtime\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\lifecycle\viewmodel\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\media\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\navigation\common\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\navigation\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\navigation\ui\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\preference\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\recyclerview\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\savedstate\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\swiperefreshlayout\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\transition\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\androidx\viewpager2\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\com\google\android\material\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BaseCellView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CellAdapter.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CircularProgress.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ContainerView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorEditText.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EllipseView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryCellView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryEditText.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsEditText.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsImageView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsTextView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemContentView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LineRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LineView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PathRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PathView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerEditText.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolygonView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolylineView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RectView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShapeView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\Listener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64ad68f59cd763e462\MainActivity.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\ButtonRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\FrameRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\ImageRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\LabelRenderer.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\constraintlayout\motion\widget\MotionLayout_TransitionListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\constraintlayout\widget\SharedValues_SharedValuesListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\OnReceiveContentListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationEndListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationUpdateListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\navigation\ui\AppBarConfiguration_OnNavigateUpListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\EditTextPreference_OnBindEditTextListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceGroup_OnExpandButtonClickListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnDisplayPreferenceDialogListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnNavigateToScreenListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnPreferenceTreeClickListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\Preference_OnPreferenceChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\Preference_OnPreferenceClickListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\android\app\ApplicationRegistration.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\xamarin\essentials\fileProvider.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\bin\packaged_resources
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\src\com\companyname\app1\R.java
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.x86.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.x86_64.ll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\typemaps.arm64-v8a.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\typemaps.armeabi-v7a.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\typemaps.x86.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\typemaps.x86_64.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\environment.arm64-v8a.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\environment.armeabi-v7a.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\environment.x86.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\environment.x86_64.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.x86.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.x86_64.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\jni_remap.arm64-v8a.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\jni_remap.armeabi-v7a.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\jni_remap.x86.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\jni_remap.x86_64.o
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\app_shared_libraries\arm64-v8a\libxamarin-app.so
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\app_shared_libraries\armeabi-v7a\libxamarin-app.so
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\app_shared_libraries\x86\libxamarin-app.so
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\app_shared_libraries\x86_64\libxamarin-app.so
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\bin\classes.dex
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\stamp\_CleanIntermediateIfNeeded.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\stamp\_CompileJava.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\stamp\_CompileToDalvik.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\stamp\_ConvertCustomView.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\stamp\_ConvertResourcesCases.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\Tools.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\Tools.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\Tools.dll.config
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Tools.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Tools.dll.config
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Tools.dll.mdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\stamp\_CopyConfigFiles.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\Domain.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\Services.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\Domain.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\Services.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\bin\Debug\Tools.dll.mdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Domain.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Domain.dll.mdb
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Services.dll
-F:\College\КАРТАШОВА\ASP\App1\App1.Android\obj\Debug\120\android\assets\Services.dll.mdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\bin\Debug\App1.Android.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\bin\Debug\App1.Android.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\bin\Debug\com.companyname.app1.apk
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\bin\Debug\com.companyname.app1.aab
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.aab
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\bin\Debug\com.companyname.app1-Signed.apk.idsig
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\bin\Debug\App1.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\bin\Debug\App1.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\build.props
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\adb.props
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\App1.Android.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res.flag
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\53\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\54\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\60\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\61\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\62\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\66\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\67\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\68\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\73\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\74\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\78\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\84\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\86\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\87\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\88\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\89\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\90\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\91\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\92\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\94\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\95\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\96\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\97\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\98\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\lp\103\jl\files.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\R.txt
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\R.cs.flag
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\App1.Android.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\App1.Android.csproj.CopyComplete
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\App1.Android.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\App1.Android.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\bin\com.companyname.app1.apk
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\bin\base.zip
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\bin\com.companyname.app1.aab
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\bin\com.companyname.app1.apks
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\values\styles.xml
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\values\colors.xml
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-hdpi\icon.png
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-mdpi\icon.png
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-xhdpi\icon.png
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-xxhdpi\icon.png
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-xxxhdpi\icon.png
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\uploadflags.txt
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\resolvedassemblies.hash
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\App1.Android.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\App1.Android.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\App1.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\App1.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\FormsViewGroup.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\FormsViewGroup.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Java.Interop.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Java.Interop.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Mono.Android.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Mono.Android.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Mono.Security.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Mono.Security.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\mscorlib.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\mscorlib.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\netstandard.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\RestSharp.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Buffers.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Core.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Core.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Data.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Data.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Drawing.Common.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Drawing.Common.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.IO.Compression.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.IO.Compression.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Memory.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Net.Http.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Net.Http.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Numerics.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Numerics.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Numerics.Vectors.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Runtime.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Runtime.Serialization.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Runtime.Serialization.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.ServiceModel.Internals.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Text.Json.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Transactions.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Transactions.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Web.Services.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Web.Services.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Xml.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Xml.Linq.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Xml.Linq.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\System.Xml.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.Core.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ConstraintLayout.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DynamicAnimation.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.DynamicAnimation.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Media.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Common.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Common.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Runtime.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.Runtime.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.UI.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Navigation.UI.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Preference.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Preference.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Essentials.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Essentials.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Core.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\typemaps.arm64-v8a.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\typemaps.armeabi-v7a.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\typemaps.x86.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\typemaps.x86_64.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\AndroidManifest.xml
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\AndroidManifest.xml
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\__environment__.txt
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\MonoRuntimeProvider.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\assets\machine.config
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\bin\mono.android.jar
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\static.flag
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\buildid.txt
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\environment.arm64-v8a.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\environment.armeabi-v7a.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\environment.x86.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\environment.x86_64.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\annotation\experimental\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\resources\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\browser\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\cardview\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\constraintlayout\widget\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\coordinatorlayout\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\core\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\drawerlayout\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\fragment\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\lifecycle\runtime\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\lifecycle\viewmodel\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\media\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\navigation\common\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\navigation\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\navigation\ui\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\preference\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\recyclerview\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\savedstate\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\swiperefreshlayout\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\transition\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\androidx\viewpager2\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\com\google\android\material\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AccessibilityDelegateAutomationId.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64ad68f59cd763e462\MainActivity.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\constraintlayout\motion\widget\MotionLayout_TransitionListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\constraintlayout\widget\SharedValues_SharedValuesListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\OnReceiveContentListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationEndListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\dynamicanimation\animation\DynamicAnimation_OnAnimationUpdateListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\navigation\ui\AppBarConfiguration_OnNavigateUpListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\EditTextPreference_OnBindEditTextListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceGroup_OnExpandButtonClickListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnDisplayPreferenceDialogListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnNavigateToScreenListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\PreferenceManager_OnPreferenceTreeClickListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\Preference_OnPreferenceChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\preference\Preference_OnPreferenceClickListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\xamarin\essentials\fileProvider.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\bin\packaged_resources
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\src\com\companyname\app1\R.java
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.x86.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.x86_64.ll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\typemaps.arm64-v8a.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\typemaps.armeabi-v7a.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\typemaps.x86.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\typemaps.x86_64.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\environment.arm64-v8a.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\environment.armeabi-v7a.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\environment.x86.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\environment.x86_64.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.x86.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\compressed_assemblies.x86_64.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\jni_remap.arm64-v8a.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\jni_remap.armeabi-v7a.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\jni_remap.x86.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\jni_remap.x86_64.o
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\android\bin\classes.dex
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_CompileJava.stamp
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_CompileToDalvik.stamp
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_ConvertCustomView.stamp
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_ConvertResourcesCases.stamp
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp

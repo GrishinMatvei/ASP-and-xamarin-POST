@@ -10,14 +10,14 @@
         "projectUniqueName": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\App1\\App1.csproj",
         "projectName": "App1",
         "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\App1\\App1.csproj",
-        "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
         "outputPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\App1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,17 +32,13 @@
         "frameworks": {
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
-            "projectReferences": {
+            "projectReferences": {}
               "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Domain\\Domain.csproj": {
                 "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Domain\\Domain.csproj"
-              },
               "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Services\\Services.csproj": {
                 "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Services\\Services.csproj"
-              },
               "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Tools\\Tools.csproj": {
                 "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Tools\\Tools.csproj"
-              }
-            }
           }
         },
         "warningProperties": {
@@ -96,58 +92,19 @@
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
-    },
     "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Domain\\Domain.csproj": {
-      "restore": {
         "projectUniqueName": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Domain\\Domain.csproj",
-        "projectName": "Domain",
         "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Domain\\Domain.csproj",
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
     "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Services\\Services.csproj": {
-      "restore": {
         "projectUniqueName": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Services\\Services.csproj",
-        "projectName": "Services",
         "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Services\\Services.csproj",
-        "frameworks": {
-          "net48": {
-            "projectReferences": {
               "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Domain\\Domain.csproj": {
                 "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Domain\\Domain.csproj"
-              },
               "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Tools\\Tools.csproj": {
                 "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Tools\\Tools.csproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
     "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Tools\\Tools.csproj": {
-      "restore": {
         "projectUniqueName": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Tools\\Tools.csproj",
-        "projectName": "Tools",
         "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\Tools\\Tools.csproj",
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
     }
   }
 }

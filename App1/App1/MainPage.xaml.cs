@@ -1,29 +1,27 @@
-﻿using Domain.Users;
-using Services.Users;
+﻿using App1.Models;
+using App1.UserService;
+using App1.Views;
 using System;
 using Xamarin.Forms;
 
 namespace App1
 {
     public partial class MainPage : ContentPage
-    {  
-        private readonly UsersService _userService;
-
+    {
         public MainPage()
         {
             InitializeComponent();
-            
-            _userService = new UsersService();
-
-            this.BindingContext = this;
         }
 
-        private void sendBtn_Clicked(object sender, EventArgs e)
+        private async void postViewButton_Clicked(object sender, EventArgs e)
         {
-            UserBlank userBlank = new UserBlank(null, nameTbx.Text, famTbx.Text);  
-            string result = _userService.SaveUser(userBlank);
-            DisplayAlert("У вас 1 непрочитанная открытка", result, "Нихачу >.<");
+            await Navigation.PushAsync(new PostView());
         }
 
+        private async void getAllButton_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new GetAllView());
+
+        }
     }
 }
