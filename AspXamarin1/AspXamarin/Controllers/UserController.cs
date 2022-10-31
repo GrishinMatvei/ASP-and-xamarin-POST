@@ -18,29 +18,38 @@ public class UserController : ControllerBase
         return Ok(db.Users.ToList());
     }
 
-    [HttpPost("Users/CreateUser")]
-    public string AddUser([FromBody] UserDto user)
+    [HttpPost("Users/SaveUser")]
+    public string SaveUser([FromBody] UserDto userDto)
     {
-        if (String.IsNullOrWhiteSpace(user.Name))
+        if (String.IsNullOrWhiteSpace(userDto.Name))
             return "Не введено имя пользователя";
 
-        if (String.IsNullOrWhiteSpace(user.Fam))
+        if (String.IsNullOrWhiteSpace(userDto.Fam))
             return "Не введена фамилия пользователя";
 
-        User newUser = new User
+        var user = db.Users.FirstOrDefault(x => x.Id == userDto.Id);
+
+        if (user is null)
         {
-            Id = db.Users.Max(x => x.Id) + 1,
-            Name = user.Name,
-            Fam = user.Fam
-        };
+            User newUser = new User
+            {
+                Id = db.Users.Max(x => x.Id) + 1,
+                Name = userDto.Name,
+                Fam = userDto.Fam
+            };
 
-        db.Users.Add(newUser);
-        db.SaveChanges();
+            db.Users.Add(newUser);
+        }
+        else
+        {
+            user.Name = userDto.Name;
+            user.Fam = userDto.Fam;
+        }
 
-        var savedUser = db.Users.FirstOrDefault(x => x.Id == newUser.Id);
+        int result = db.SaveChanges();
 
-        if(savedUser is not null) return "Сохранение произошло успешно";
+        if (result == 0) return "Пустой юзер, чувак";
 
-        return "Пустой юзер, чувак";
+        return "Сохранение произошло успешно";
     }
 }

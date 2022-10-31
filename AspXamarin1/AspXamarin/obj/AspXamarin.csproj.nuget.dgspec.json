@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Mobilization\\ASP and xamarin POST\\AspXamarin1\\AspXamarin\\AspXamarin.csproj": {}
+    "F:\\College\\КАРТАШОВА\\ASP\\AspXamarin1\\AspXamarin\\AspXamarin.csproj": {}
   },
   "projects": {
-    "G:\\Mobilization\\ASP and xamarin POST\\AspXamarin1\\AspXamarin\\AspXamarin.csproj": {
+    "F:\\College\\КАРТАШОВА\\ASP\\AspXamarin1\\AspXamarin\\AspXamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Mobilization\\ASP and xamarin POST\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
+        "projectUniqueName": "F:\\College\\КАРТАШОВА\\ASP\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
         "projectName": "AspXamarin",
-        "projectPath": "G:\\Mobilization\\ASP and xamarin POST\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "G:\\Mobilization\\ASP and xamarin POST\\AspXamarin1\\AspXamarin\\obj\\",
+        "projectPath": "F:\\College\\КАРТАШОВА\\ASP\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
+        "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
+        "outputPath": "F:\\College\\КАРТАШОВА\\ASP\\AspXamarin1\\AspXamarin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

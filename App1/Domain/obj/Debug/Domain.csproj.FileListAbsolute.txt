@@ -1,0 +1,6 @@
+F:\College\КАРТАШОВА\ASP\App1\Domain\bin\Debug\Domain.dll
+F:\College\КАРТАШОВА\ASP\App1\Domain\bin\Debug\Domain.pdb
+F:\College\КАРТАШОВА\ASP\App1\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+F:\College\КАРТАШОВА\ASP\App1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+F:\College\КАРТАШОВА\ASP\App1\Domain\obj\Debug\Domain.dll
+F:\College\КАРТАШОВА\ASP\App1\Domain\obj\Debug\Domain.pdb
