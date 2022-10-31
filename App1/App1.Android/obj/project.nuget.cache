@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gy8GhsuRKV/XkwRrJagzkq5mQz4vFEWev9ptmxiMG+L/EEZU9/QIZjPGulhSx+x5mvYhmJmsiahLbbgJ6RjS8Q==",
+  "dgSpecHash": "HSEBBGoHTr2W3voIxbALUNwadA7FfDAYoOGLwptEKgL1PEYPLIthiHHqRcQJ+hM5nolnyHnDivSMqz9k07Vybw==",
   "success": true,
-  "projectFilePath": "F:\\College\\КАРТАШОВА\\ASP\\App1\\App1.Android\\App1.Android.csproj",
+  "projectFilePath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\App1.Android\\App1.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Никита\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Никита\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

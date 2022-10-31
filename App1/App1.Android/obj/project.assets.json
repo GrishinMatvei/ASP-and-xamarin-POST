@@ -3867,11 +3867,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\College\\КАРТАШОВА\\ASP\\App1\\App1.Android\\App1.Android.csproj",
+      "projectUniqueName": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\App1.Android\\App1.Android.csproj",
       "projectName": "App1.Android",
-      "projectPath": "F:\\College\\КАРТАШОВА\\ASP\\App1\\App1.Android\\App1.Android.csproj",
+      "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\App1.Android\\App1.Android.csproj",
       "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-      "outputPath": "F:\\College\\КАРТАШОВА\\ASP\\App1\\App1.Android\\obj\\",
+      "outputPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\App1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3892,8 +3892,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "F:\\College\\КАРТАШОВА\\ASP\\App1\\App1\\App1.csproj": {
-              "projectPath": "F:\\College\\КАРТАШОВА\\ASP\\App1\\App1\\App1.csproj"
+            "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\App1\\App1.csproj": {
+              "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\App1\\App1\\App1.csproj"
             }
           }
         }
