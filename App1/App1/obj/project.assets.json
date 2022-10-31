@@ -227,37 +227,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "Domain/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Domain.dll": {}
-        }
-      },
-      "Services/1.0.0": {
-        "type": "project",
-        "dependencies": {
-          "Domain": "1.0.0",
-          "Tools": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Services.dll": {}
-        }
-      },
-      "Tools/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Tools.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Tools.dll": {}
-        }
       }
     }
   },
@@ -973,54 +942,36 @@
         "xamarin.forms.5.0.0.2196.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
-    },
-    "Domain/1.0.0": {
-      "type": "project",
-      "path": "../Domain/Domain.csproj",
-      "msbuildProject": "../Domain/Domain.csproj"
-    },
-    "Services/1.0.0": {
-      "type": "project",
-      "path": "../Services/Services.csproj",
-      "msbuildProject": "../Services/Services.csproj"
-    },
-    "Tools/1.0.0": {
-      "type": "project",
-      "path": "../Tools/Tools.csproj",
-      "msbuildProject": "../Tools/Tools.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Domain >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "Newtonsoft.Json >= 13.0.1",
       "RestSharp >= 108.0.2",
-      "Services >= 1.0.0",
       "System.Text.Json >= 6.0.6",
-      "Tools >= 1.0.0",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Никита\\.nuget\\packages\\": {},
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\College\\КАРТАШОВА\\ASP\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\ASP and xamarin POST\\App1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "F:\\College\\КАРТАШОВА\\ASP\\App1\\App1\\App1.csproj",
-      "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-      "outputPath": "F:\\College\\КАРТАШОВА\\ASP\\App1\\App1\\obj\\",
+      "projectPath": "C:\\Users\\admin\\Desktop\\ASP and xamarin POST\\App1\\App1\\App1.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\ASP and xamarin POST\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1035,17 +986,7 @@
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
-          "projectReferences": {
-            "F:\\College\\КАРТАШОВА\\ASP\\App1\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\College\\КАРТАШОВА\\ASP\\App1\\Domain\\Domain.csproj"
-            },
-            "F:\\College\\КАРТАШОВА\\ASP\\App1\\Services\\Services.csproj": {
-              "projectPath": "F:\\College\\КАРТАШОВА\\ASP\\App1\\Services\\Services.csproj"
-            },
-            "F:\\College\\КАРТАШОВА\\ASP\\App1\\Tools\\Tools.csproj": {
-              "projectPath": "F:\\College\\КАРТАШОВА\\ASP\\App1\\Tools\\Tools.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

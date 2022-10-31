@@ -58,26 +58,20 @@ C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0
 C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
 C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\App1.pdb
 C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
-F:\College\КАРТАШОВА\ASP\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
-F:\College\КАРТАШОВА\ASP\App1\App1\bin\Debug\netstandard2.0\App1.dll
-F:\College\КАРТАШОВА\ASP\App1\App1\bin\Debug\netstandard2.0\App1.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\App1.dll
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\App1.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
-F:\College\КАРТАШОВА\ASP\App1\App1\bin\Debug\netstandard2.0\Tools.dll
-F:\College\КАРТАШОВА\ASP\App1\App1\bin\Debug\netstandard2.0\Tools.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1\bin\Debug\netstandard2.0\Tools.dll.config
-F:\College\КАРТАШОВА\ASP\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CopyComplete
-F:\College\КАРТАШОВА\ASP\App1\App1\bin\Debug\netstandard2.0\Domain.dll
-F:\College\КАРТАШОВА\ASP\App1\App1\bin\Debug\netstandard2.0\Services.dll
-F:\College\КАРТАШОВА\ASP\App1\App1\bin\Debug\netstandard2.0\Domain.pdb
-F:\College\КАРТАШОВА\ASP\App1\App1\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\Views\PostView.xaml.g.cs
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+C:\Users\admin\Desktop\ASP and xamarin POST\App1\App1\obj\Debug\netstandard2.0\Views\GetAllView.xaml.g.cs
