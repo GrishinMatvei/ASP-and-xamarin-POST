@@ -1,5 +1,6 @@
-using AspXamarin.Models.ApplicationContext;
+using AspXamarin.Models;
 using Microsoft.EntityFrameworkCore;
+using Services.Users.Models;
 
 namespace AspXamarin;
 
@@ -14,8 +15,7 @@ public class Program
         builder.Services.AddRazorPages();
 
         builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(con));
-        
-
+         
         var app = builder.Build();
 
         if (!app.Environment.IsDevelopment())

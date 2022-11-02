@@ -8,8 +8,10 @@
     ".NETCoreApp,Version=v6.0": {
       "AspXamarin/1.0.0": {
         "dependencies": {
+          "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10",
+          "Services": "1.0.0"
         },
         "runtime": {
           "AspXamarin.dll": {}
@@ -412,6 +414,20 @@
             "fileVersion": "4.700.19.56404"
           }
         }
+      },
+      "Domain/1.0.0": {
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.10"
+        },
+        "runtime": {
+          "Services.dll": {}
+        }
       }
     }
   },
@@ -700,6 +716,16 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

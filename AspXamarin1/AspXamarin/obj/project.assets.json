@@ -737,6 +737,30 @@
             "rid": "win"
           }
         }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.10"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -1902,12 +1926,24 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.10",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10",
+      "Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1942,7 +1978,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\AspXamarin1\\Domain\\Domain.csproj": {
+              "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\AspXamarin1\\Domain\\Domain.csproj"
+            },
+            "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\AspXamarin1\\Services\\Services.csproj": {
+              "projectPath": "F:\\College\\КАРТАШОВА\\ASP-and-xamarin-POST\\AspXamarin1\\Services\\Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
