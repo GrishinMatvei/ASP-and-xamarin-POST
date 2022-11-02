@@ -1,6 +1,4 @@
-﻿using App1.Models;
-using App1.UserService;
-using App1.Views;
+﻿using App1.Views;
 using System;
 using Xamarin.Forms;
 
