@@ -1,0 +1,25 @@
+*.orig
+*.refsignored
+*.cache
+*.user
+.suo
+.vs/
+.idea/
+Bin/
+/obj/
+[Bb]in/
+/Uploads/
+.suo
+/bin/
+syntax: glob
+obj/
+*.orig
+packages/
+*.refsignored
+*.user
+*.cache
+packages/*
+AspXamarin1/AspXamarin/wwwroot/dist
+/.vscode/
+/publish
+ 
