@@ -1,11 +1,6 @@
-﻿using App1.Models;
-using App1.UserService;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using Domain.Users;
+using Services.Users;
+using System;  
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -14,20 +9,18 @@ namespace App1.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class PostView : ContentPage
     {
+        private readonly UsersService _userService;
         public PostView()
         {
             InitializeComponent();
+            _userService = new UsersService();
         }
 
-        public UsersService userService = new UsersService();
 
         private void sendBtn_Clicked(object sender, EventArgs e)
         {
-            User newUser = new User();
-            newUser.Name = nameTbx.Text;
-            newUser.Fam = famTbx.Text;
-            newUser.Id = null;
-            string result = userService.Add(newUser);
+            UserBlank userBlank = new UserBlank(null, nameTbx.Text, famTbx.Text); 
+            string result = _userService.SaveUser(userBlank);
             DisplayAlert("У вас 1 непрочитанная открытка", result, "Нихачу >.<");
         }
     }
