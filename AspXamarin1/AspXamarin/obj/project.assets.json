@@ -1947,23 +1947,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Никита\\.nuget\\packages\\": {},
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\College\\Mobile\\ASP\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\ASP-and-xamarin-POST\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
       "projectName": "AspXamarin",
-      "projectPath": "F:\\College\\Mobile\\ASP\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
-      "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-      "outputPath": "F:\\College\\Mobile\\ASP\\AspXamarin1\\AspXamarin\\obj\\",
+      "projectPath": "C:\\Users\\admin\\Desktop\\ASP-and-xamarin-POST\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\ASP-and-xamarin-POST\\AspXamarin1\\AspXamarin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1979,11 +1979,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\College\\Mobile\\ASP\\AspXamarin1\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\College\\Mobile\\ASP\\AspXamarin1\\Domain\\Domain.csproj"
+            "C:\\Users\\admin\\Desktop\\ASP-and-xamarin-POST\\AspXamarin1\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\admin\\Desktop\\ASP-and-xamarin-POST\\AspXamarin1\\Domain\\Domain.csproj"
             },
-            "F:\\College\\Mobile\\ASP\\AspXamarin1\\Services\\Services.csproj": {
-              "projectPath": "F:\\College\\Mobile\\ASP\\AspXamarin1\\Services\\Services.csproj"
+            "C:\\Users\\admin\\Desktop\\ASP-and-xamarin-POST\\AspXamarin1\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\admin\\Desktop\\ASP-and-xamarin-POST\\AspXamarin1\\Services\\Services.csproj"
             }
           }
         }

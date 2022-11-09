@@ -1,4 +1,6 @@
 ﻿using Domain.Users;
+using Services.Users.Converters;
+using Services.Users.Models;
 using Tools.DataBase;
 
 namespace Services.Users
@@ -12,7 +14,7 @@ namespace Services.Users
 
         public User[] GetUsers()
         {
-            return HttpClient.Get<User[]>("Users/GetAll");
+            return HttpClient.Get<UserDb[]>("Users/GetAll").ToUsers();
         }
     }
 }

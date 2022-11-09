@@ -72,3 +72,17 @@ F:\College\Mobile\ASP\App1\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
 F:\College\Mobile\ASP\App1\Tools\obj\Debug\Tools.csproj.CopyComplete
 F:\College\Mobile\ASP\App1\Tools\obj\Debug\Tools.dll
 F:\College\Mobile\ASP\App1\Tools\obj\Debug\Tools.pdb
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\Domain.dll
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\Domain.pdb
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\ASP-and-xamarin-POST\App1\Tools\bin\Debug\System.ValueTuple.xml

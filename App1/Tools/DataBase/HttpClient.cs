@@ -3,13 +3,12 @@ using System;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
-using SystemJsonSerialize = System.Text.Json.JsonSerializer;
 
 namespace Tools.DataBase
 {
     public static class HttpClient
     {
-        private static Uri defaultUrl = new Uri("http://192.168.1.112:3000/");
+        private static Uri defaultUrl = new Uri("http://192.168.27.111:3000/");
         private static System.Net.Http.HttpClient httpClient = new System.Net.Http.HttpClient();
 
         public static string Post<TValue>(string methodUrl, TValue value)
@@ -28,7 +27,7 @@ namespace Tools.DataBase
             Uri url = new Uri(defaultUrl.ToString() + methodUrl);
             var result = httpClient.GetAsync(url).GetAwaiter().GetResult();
             string json = result.Content.ReadAsStringAsync().GetAwaiter().GetResult();
-            return SystemJsonSerialize.Deserialize<TValue>(json);
+            return JsonConvert.DeserializeObject<TValue>(json);
         }
     }
 }

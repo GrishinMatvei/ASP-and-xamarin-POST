@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Users\Converters\UserConverter.cs" />
+    <Compile Include="Users\Models\UserDb.cs" />
     <Compile Include="Users\UsersService.cs" />
   </ItemGroup>
   <ItemGroup>
