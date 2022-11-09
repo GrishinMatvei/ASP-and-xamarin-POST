@@ -1,0 +1,300 @@
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\appsettings.json
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.staticwebassets.runtime.json
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.exe
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.deps.json
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.runtimeconfig.json
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.pdb
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.AssemblyInfoInputs.cache
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.AssemblyInfo.cs
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.RazorAssemblyInfo.cache
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.RazorAssemblyInfo.cs
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\bundle\AspXamarin.styles.css
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\projectbundle\AspXamarin.bundle.scp.css
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.CopyComplete
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\refint\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.pdb
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.genruntimeconfig.cache
+C:\Users\SP4-IVC\Desktop\AspXamarin1\AspXamarin\obj\Debug\net6.0\ref\AspXamarin.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.staticwebassets.runtime.json
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.exe
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.deps.json
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.runtimeconfig.json
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.pdb
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\bundle\AspXamarin.styles.css
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\projectbundle\AspXamarin.bundle.scp.css
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.CopyComplete
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\refint\AspXamarin.dll
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.pdb
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\ref\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\appsettings.json
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.staticwebassets.runtime.json
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.exe
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.deps.json
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.runtimeconfig.json
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.pdb
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.AssemblyInfoInputs.cache
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.AssemblyInfo.cs
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.RazorAssemblyInfo.cache
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.RazorAssemblyInfo.cs
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\bundle\AspXamarin.styles.css
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\projectbundle\AspXamarin.bundle.scp.css
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.CopyComplete
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\refint\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.pdb
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.genruntimeconfig.cache
+C:\Users\SP4-IVC\Desktop\Обильно связал с АСП\AspXamarin1\AspXamarin\obj\Debug\net6.0\ref\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\appsettings.json
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.staticwebassets.runtime.json
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.exe
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.deps.json
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.runtimeconfig.json
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.pdb
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.AssemblyInfoInputs.cache
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.AssemblyInfo.cs
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.RazorAssemblyInfo.cache
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.RazorAssemblyInfo.cs
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\bundle\AspXamarin.styles.css
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\projectbundle\AspXamarin.bundle.scp.css
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.CopyComplete
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\refint\AspXamarin.dll
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.pdb
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.genruntimeconfig.cache
+C:\Users\SP4-IVC\Desktop\ASP and xamarin POST\AspXamarin1\AspXamarin\obj\Debug\net6.0\ref\AspXamarin.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\appsettings.Development.json
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\appsettings.json
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.staticwebassets.runtime.json
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.exe
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.deps.json
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.runtimeconfig.json
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\AspXamarin.pdb
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.AssemblyReference.cache
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.GeneratedMSBuildEditorConfig.editorconfig
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.AssemblyInfoInputs.cache
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.AssemblyInfo.cs
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.CoreCompileInputs.cache
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.MvcApplicationPartsAssemblyInfo.cache
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.RazorAssemblyInfo.cache
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.RazorAssemblyInfo.cs
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\staticwebassets.build.json
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\staticwebassets.development.json
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\bundle\AspXamarin.styles.css
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\scopedcss\projectbundle\AspXamarin.bundle.scp.css
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.csproj.CopyComplete
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\refint\AspXamarin.dll
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.pdb
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\AspXamarin.genruntimeconfig.cache
+F:\College\КАРТАШОВА\ASP\AspXamarin1\AspXamarin\obj\Debug\net6.0\ref\AspXamarin.dll
