@@ -13,11 +13,11 @@ public class UserController : ControllerBase
         _usersService = new UsersServices(context);
     }
 
-    //[HttpGet("Users/GetAll")]
-    //public async Task<IActionResult> GetAllUsers()
-    //{
-    //    return Ok(db.Users.ToList());
-    //}
+    [HttpGet("Users/GetAll")]
+    public User[] GetAllUsers()
+    {
+        return _usersService.GetUsers();
+    }
 
     [HttpPost("Users/SaveUser")]
     public string SaveUser([FromBody] UserBlank userBlank)

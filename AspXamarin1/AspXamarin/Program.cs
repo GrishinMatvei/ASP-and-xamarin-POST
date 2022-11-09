@@ -1,4 +1,3 @@
-using AspXamarin.Models;
 using Microsoft.EntityFrameworkCore;
 using Services.Users.Models;
 

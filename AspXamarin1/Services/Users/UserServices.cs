@@ -34,4 +34,9 @@ public class UsersServices
 
         return _usersRepository.GetUser(id.Value);
     }
+
+    public User[] GetUsers()
+    {
+        return _usersRepository.GetUsers();
+    }
 }

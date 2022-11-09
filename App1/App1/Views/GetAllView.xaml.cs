@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using Domain.Users;
+using Services.Users;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -12,10 +8,13 @@ namespace App1.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class GetAllView : ContentPage
     {
+        private readonly UsersService _userService;
         public GetAllView()
         {
             InitializeComponent();
-            allUsers.ItemsSource = 
+            _userService = new UsersService();
+            User[] users = _userService.GetUsers();
+            allUsers.ItemsSource = users;
         }
     }
 }

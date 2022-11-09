@@ -45,6 +45,9 @@
     <Compile Include="Users\UsersService.cs" />
   </ItemGroup>
   <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{62a1f80b-1bd9-4645-8851-e002379dcea1}</Project>
       <Name>Domain</Name>

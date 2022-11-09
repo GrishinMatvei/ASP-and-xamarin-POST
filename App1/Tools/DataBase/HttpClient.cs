@@ -1,19 +1,16 @@
-﻿using System;
-using System.Net.Http.Headers;
+﻿using Newtonsoft.Json;
+using System;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Text;
-using Newtonsoft.Json;
-using Domain.Users;
-using System.Collections.Generic;
+using SystemJsonSerialize = System.Text.Json.JsonSerializer;
 
 namespace Tools.DataBase
 {
     public static class HttpClient
     {
         private static Uri defaultUrl = new Uri("http://192.168.1.112:3000/");
-        private static System.Net.Http.HttpClient httpClient = new System.Net.Http.HttpClient(); 
-
-
+        private static System.Net.Http.HttpClient httpClient = new System.Net.Http.HttpClient();
 
         public static string Post<TValue>(string methodUrl, TValue value)
         {
@@ -26,12 +23,12 @@ namespace Tools.DataBase
             return response.Content.ReadAsStringAsync().GetAwaiter().GetResult();
         }
 
-        public static List<User> Get(string methodUrl)
+        public static TValue Get<TValue>(string methodUrl)
         {
-
             Uri url = new Uri(defaultUrl.ToString() + methodUrl);
             var result = httpClient.GetAsync(url).GetAwaiter().GetResult();
-            return JsonSerializer.Deserialize<IEnumerable<User>>(result);
+            string json = result.Content.ReadAsStringAsync().GetAwaiter().GetResult();
+            return SystemJsonSerialize.Deserialize<TValue>(json);
         }
     }
 }

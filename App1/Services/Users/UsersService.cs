@@ -1,5 +1,4 @@
 ﻿using Domain.Users;
-using System.Collections.Generic;
 using Tools.DataBase;
 
 namespace Services.Users
@@ -11,9 +10,9 @@ namespace Services.Users
             return HttpClient.Post("Users/SaveUser", user);
         }
 
-        public List<User> GetUsers()
+        public User[] GetUsers()
         {
-            return HttpClient.Get("Users/GetAll");
+            return HttpClient.Get<User[]>("Users/GetAll");
         }
     }
 }

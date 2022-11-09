@@ -737,6 +737,30 @@
             "rid": "win"
           }
         }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.10"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -1902,32 +1926,44 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.10",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10",
+      "Services >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\Никита\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\ASP-and-xamarin-POST\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
+      "projectUniqueName": "F:\\College\\Mobile\\ASP\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
       "projectName": "AspXamarin",
-      "projectPath": "C:\\Users\\admin\\Desktop\\ASP-and-xamarin-POST\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\ASP-and-xamarin-POST\\AspXamarin1\\AspXamarin\\obj\\",
+      "projectPath": "F:\\College\\Mobile\\ASP\\AspXamarin1\\AspXamarin\\AspXamarin.csproj",
+      "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
+      "outputPath": "F:\\College\\Mobile\\ASP\\AspXamarin1\\AspXamarin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1942,7 +1978,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\College\\Mobile\\ASP\\AspXamarin1\\Domain\\Domain.csproj": {
+              "projectPath": "F:\\College\\Mobile\\ASP\\AspXamarin1\\Domain\\Domain.csproj"
+            },
+            "F:\\College\\Mobile\\ASP\\AspXamarin1\\Services\\Services.csproj": {
+              "projectPath": "F:\\College\\Mobile\\ASP\\AspXamarin1\\Services\\Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

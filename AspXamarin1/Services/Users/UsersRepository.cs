@@ -24,6 +24,11 @@ public class UsersRepository
         return _context.Users.FirstOrDefault(x => x.Id == id)?.ToUser() ?? null;
     }
 
+    public User[] GetUsers()
+    {
+        return _context.Users.ToArray().ToUsers();
+    }
+
     public int GetCount()
     {
         return _context.Users.Max(x => x.Id);
