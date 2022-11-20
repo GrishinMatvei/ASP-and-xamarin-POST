@@ -16,6 +16,11 @@ namespace Services.Users
         {
             return HttpClient.Get<UserDb[]>("Users/GetAll").ToUsers();
         }
+
+        public string DeleteUser(User user)
+        {
+            return HttpClient.Delete("Users/DeleteUser", user);
+        }
     }
 }
 

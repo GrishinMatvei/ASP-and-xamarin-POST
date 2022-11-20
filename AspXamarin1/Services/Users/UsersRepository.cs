@@ -12,10 +12,14 @@ public class UsersRepository
         _context = context;
     }
 
-    public void SaveUser(UserBlank userBlank)
+    public void SaveUser(UserBlank userBlank, bool isNew)
     {
         UserDb db = new UserDb(userBlank.Id.Value, userBlank.Name, userBlank.Fam);
-        _context.Add(db);
+        if(isNew) _context.Add(db); else
+        {
+            db.Name = userBlank.Name;
+            db.Fam = userBlank.Fam;
+        }
         _context.SaveChanges();
     }
 
@@ -32,5 +36,12 @@ public class UsersRepository
     public int GetCount()
     {
         return _context.Users.Max(x => x.Id);
+    }
+
+    public void DeleteUser(int id)
+    {
+        var user = _context.Users.FirstOrDefault(x => x.Id == id)?.ToUser() ?? null;
+        _context.Remove(user);
+        _context.SaveChanges();         
     }
 }

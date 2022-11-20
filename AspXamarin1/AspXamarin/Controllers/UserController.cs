@@ -24,4 +24,10 @@ public class UserController : ControllerBase
     {
         return _usersService.SaveUser(userBlank);
     }
+
+    [HttpDelete("Users/DeleteUser/{id}")]
+    public string DeleteUser([FromRoute] int id)
+    {
+        return _usersService.DeleteUser(id).ToString();
+    }
 }

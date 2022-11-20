@@ -58,3 +58,17 @@ F:\College\Mobile\ASP\App1\Services\obj\Debug\Services.csproj.CoreCompileInputs.
 F:\College\Mobile\ASP\App1\Services\obj\Debug\Services.csproj.CopyComplete
 F:\College\Mobile\ASP\App1\Services\obj\Debug\Services.dll
 F:\College\Mobile\ASP\App1\Services\obj\Debug\Services.pdb
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\bin\Debug\Services.dll
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\bin\Debug\Services.pdb
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\bin\Debug\Domain.dll
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\bin\Debug\Tools.dll
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\bin\Debug\Domain.pdb
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\bin\Debug\Tools.pdb
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\bin\Debug\Tools.dll.config
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\obj\Debug\Services.dll
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Services\obj\Debug\Services.pdb

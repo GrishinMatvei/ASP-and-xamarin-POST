@@ -19,11 +19,13 @@ public class UsersServices
         if (String.IsNullOrWhiteSpace(userBlank.Fam))
             return "Не введена фамилия пользователя";
 
+        bool isNewUser = userBlank.Id is null;
+
         userBlank.Id ??= _usersRepository.GetCount() + 1; 
 
         User? user = GetUser(userBlank.Id);
 
-        if (user is null) _usersRepository.SaveUser(userBlank);
+        if (user is null) _usersRepository.SaveUser(userBlank, isNewUser);
           
         return "Сохранение произошло успешно";
     }
@@ -38,5 +40,12 @@ public class UsersServices
     public User[] GetUsers()
     {
         return _usersRepository.GetUsers();
+    }
+
+    public string DeleteUser(int? id)
+    {
+        if (id is null) return null;
+        _usersRepository.DeleteUser(id.Value);
+        return "Удаление выполнено";
     }
 }

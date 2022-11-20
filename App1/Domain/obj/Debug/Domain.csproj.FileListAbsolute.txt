@@ -16,3 +16,9 @@ F:\College\Mobile\ASP\App1\Domain\obj\Debug\Domain.csproj.AssemblyReference.cach
 F:\College\Mobile\ASP\App1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 F:\College\Mobile\ASP\App1\Domain\obj\Debug\Domain.dll
 F:\College\Mobile\ASP\App1\Domain\obj\Debug\Domain.pdb
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Domain\bin\Debug\Domain.dll
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Domain\bin\Debug\Domain.pdb
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Domain\obj\Debug\Domain.dll
+C:\Users\SP4-IVC\Desktop\ASP-and-xamarin-POST-main\App1\Domain\obj\Debug\Domain.pdb
